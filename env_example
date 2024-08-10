@@ -1,0 +1,8 @@
+# go to @BotFather and create a new token.
+TOKEN=TG_BOT_TOKEN
+
+# Create a database in postgres.
+IP=IP
+PGUSER=PGUSER
+PGPASSWORD=PGPASSWORD
+DATABASE=DATABASE
