@@ -12,7 +12,8 @@
 * Start your postgres data resources, start the server and transfer the data for connection.
 * Run nats in your terminal, make sure there is a connection
 * Next, create a stream that will serve as our intermediary:
-* thread ``` sudo nats add MESSAGES --subjects "messages.*" --storage file --storage limits
+* thread ```bash
+* sudo nats add MESSAGES --subjects "messages.*" --storage file --storage limits
 * Now we need Python 3.x
 * Let's install everything depending on: ``` pip install -r require.txt
 * Let's put all the variables in .env
