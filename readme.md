@@ -1,4 +1,4 @@
-***NATS WITH TELEGRAM BOT MAILING SYSTEM***
+## NATS WITH TELEGRAM BOT MAILING SYSTEM
 
 **What can this bot do?**
 * Able to greet the user
