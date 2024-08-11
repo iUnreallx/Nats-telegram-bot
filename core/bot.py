@@ -16,6 +16,7 @@ load_dotenv(find_dotenv())
 TOKEN = getenv("TOKEN")
 
 async def main() -> None:
+    await async_database_create()
     logging.basicConfig(level=logging.INFO)
 
     dp = Dispatcher()
